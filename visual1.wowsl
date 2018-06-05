@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>13</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visual1</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>dribbles</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/convex/</ImageTemplate>
+            <ImageTemplateName>Convex</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>E:/app6 actual/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>E:/app6 actual</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#54acd2</TemplateColor>
+            <TemplateFont>Gurajada</TemplateFont>
+            <TemplateName>convex</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>E:/app6 actual/imagenes/BASE.jpg</url>
+                <title>BASE</title>
+                <filesize>4206</filesize>
+            </Image>
+            <Image>
+                <url>E:/app6 actual/imagenes/BD.jpg</url>
+                <title>BD</title>
+                <filesize>5364</filesize>
+            </Image>
+            <Image>
+                <url>E:/app6 actual/imagenes/BD1.jpg</url>
+                <title>BD1</title>
+                <filesize>48395</filesize>
+            </Image>
+            <Image>
+                <url>E:/app6 actual/imagenes/DESVENTAJAS.jpg</url>
+                <title>DESVENTAJAS</title>
+                <filesize>68668</filesize>
+            </Image>
+            <Image>
+                <url>E:/app6 actual/imagenes/imagen1.png</url>
+                <title>imagen1</title>
+                <filesize>6487</filesize>
+            </Image>
+            <Image>
+                <url>E:/app6 actual/imagenes/imagen2.jpg</url>
+                <title>imagen2</title>
+                <filesize>70643</filesize>
+            </Image>
+            <Image>
+                <url>E:/app6 actual/imagenes/imagen3.jpg</url>
+                <title>imagen3</title>
+                <filesize>9033</filesize>
+            </Image>
+            <Image>
+                <url>E:/app6 actual/imagenes/imagen4.jpg</url>
+                <title>imagen4</title>
+                <filesize>7606</filesize>
+            </Image>
+            <Image>
+                <url>E:/app6 actual/imagenes/imagen5.jpg</url>
+                <title>imagen5</title>
+                <filesize>13416</filesize>
+            </Image>
+            <Image>
+                <url>E:/app6 actual/imagenes/images.jpg</url>
+                <title>images</title>
+                <filesize>13514</filesize>
+            </Image>
+            <Image>
+                <url>E:/app6 actual/imagenes/PASOS.jpg</url>
+                <title>PASOS</title>
+                <filesize>5183</filesize>
+            </Image>
+            <Image>
+                <url>E:/app6 actual/imagenes/VENTAJAS.jpg</url>
+                <title>VENTAJAS</title>
+                <filesize>68668</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
